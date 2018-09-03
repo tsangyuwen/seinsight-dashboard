@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+專案下載注意事項
 
-Things you may want to cover:
+* 先fork到自己的空間
 
-* Ruby version
+* 用git clone下載
 
-* System dependencies
+* cd 切換到專案
 
-* Configuration
+* bundle install
 
-* Database creation
+* rails db:migrate
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 注意自己在哪個分支
